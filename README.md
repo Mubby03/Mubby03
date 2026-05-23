@@ -83,14 +83,7 @@ Currently working on a **news bias detection AI** because the way information is
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mubby03/mubby03/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mubby03/mubby03/output/github-contribution-grid-snake.svg" />
-    <!-- <img alt="github-snake" src="https://raw.githubusercontent.com/mubby03/mubby03/output/github-contribution-grid-snake.svg" /> -->
-    <img src="https://raw.githubusercontent.com/mubby03/mubby03/snake-output/snake.svg" alt="Snake animation" />
-
-###
-  </picture>
+  <img src="https://raw.githubusercontent.com/Mubby03/Mubby03/snake-output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
