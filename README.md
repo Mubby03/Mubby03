@@ -69,10 +69,10 @@ Currently working on a **news bias detection AI** because the way information is
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mubby03&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubby03&layout=compact&theme=default&hide_border=true" height="150" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=mubby03&theme=default&hide_border=true" />
